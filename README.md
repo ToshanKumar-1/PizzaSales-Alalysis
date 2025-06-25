@@ -61,5 +61,5 @@ This project is an interactive Excel-based dashboard that analyzes pizza sales d
 For questions or feedback, feel free to reach out:
 
 - **Name**: Toshan Kumar
-- **Email**: [your-email@example.com]
-- **LinkedIn**: [Your LinkedIn Profile URL]
+- **Email**: toshankalakoti@gmail.com
+- **LinkedIn**: (https://www.linkedin.com/in/toshan-kumar-733784257/)
